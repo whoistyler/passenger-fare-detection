@@ -2,6 +2,8 @@
 
 ## People Tracker
 
+![](passenger_fare_detection.gif)
+
 ### How to run
 To Run with the test example videos
 ```bash

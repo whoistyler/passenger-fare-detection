@@ -1,0 +1,6 @@
+[submodule "fydp-backend"]
+	path = fydp-backend
+	url = git@github.com:imadsyed/fydp-backend.git
+[submodule "fydp-frontend"]
+	path = fydp-frontend
+	url = git@github.com:Mayo19/fydp-frontend.git

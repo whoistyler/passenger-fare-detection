@@ -17,7 +17,6 @@ py3 main.py --output output/output_01.avi
 Set up dependencies by
 ```bash
 cd fare_evasion && pipenv install
-cd fydp-backend && pipenv install
 ```
 
 ### Running backend
@@ -38,3 +37,10 @@ http://www.dev47apps.com/droidcam/windows/
 ### Faster RCNN Setup
 prototxt and pre-trained models downloaded from 
 https://docs.openvinotoolkit.org/2018_R5/_samples_object_detection_demo_README.html
+
+
+## Acknowledgments
+We used the following repositories and resources. Thank you for helping
+* https://github.com/nwojke/deep_sort
+* https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
+* https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md

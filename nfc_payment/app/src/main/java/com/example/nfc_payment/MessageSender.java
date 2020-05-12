@@ -17,7 +17,7 @@ public class MessageSender extends AsyncTask<String, Void, Void> {
         try {
             try {
                 // Add your own socket id
-                Socket socket = new Socket("000.000.0.00", 8888);
+                Socket socket = new Socket("192.168.0.16", 8888);
                 PrintWriter outToServer = new PrintWriter(
                         new OutputStreamWriter(
                                 socket.getOutputStream()));

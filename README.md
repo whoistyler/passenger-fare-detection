@@ -3,6 +3,11 @@
 ## People Tracker
 
 ![](passenger_fare_detection.gif)
+Note: The gif payment signals were fired randomly, hence may be confusing, a new video will be uploaded<br />
+Yellow Bounding Box: Detected a person, but they are not a passenger<br />
+Green Bounding Box: Paid Passenger<br />
+Red Bounding Box: Passenger has not paid<br />
+
 
 ### How to run
 To Run with the test example videos

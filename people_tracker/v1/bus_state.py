@@ -4,7 +4,7 @@ import urllib.error
 import datetime
 import threading
 
-API_URL = "http://192.168.43.219:5000"
+API_URL = ""
 
 def http_req(url, params=None):
     data = json.dumps(params).encode('utf8') if params else None

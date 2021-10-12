@@ -1,6 +1,6 @@
 # People Tracker
 numpy==1.15.4
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.2.0.32
 opencv-python==3.1.0.5
 dlib==19.17.0
 imutils==0.5.2
